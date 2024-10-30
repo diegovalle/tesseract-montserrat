@@ -1,0 +1,29 @@
+Aguascalientes \d\* Morelos \d\*
+Baja California \d\* Nayarit \d\*
+Baja California Sur \d\* Nuevo León \d\*
+Campeche \d\* Oaxaca \d\*
+Chiapas \d\* Puebla \d\*
+Chihuahua \d\* Querétaro \d\*
+Ciudad de México \d\* Quintana Roo \d\*
+Coahuila \d\* San Luis Potosí \d\*
+Colima \d\* Sinaloa \d\*
+Durango \d\* Sonora \d\*
+Estado de México \d\* Tabasco \d\*
+Guanajuato \d\* Tamaulipas \d\*
+Guerrero \d\* Tlaxcala \d\*
+Hidalgo \d\* Veracruz \d\*
+Jalisco \d\* Yucatán \d\*
+Michoacán \d\* Zacatecas \d\*
+Fuente: Ficalías, del \d\* de \A\* de \d*
+Enero \d\*
+Febrero \d\*
+Marzo \d\*
+Abril \d\*
+Mayo \d\*
+Junio \d\*
+Julio \d\*
+Agosto \d\*
+Septiembre \d\*
+Octubre \d\*
+Noviembre \d\*
+Diciembre \d\*
