@@ -78,7 +78,7 @@ validate_tesseract_text() {
 }
 
 main() {
-  mkdir -p "$LOCAL_DIR"/pdf
+  mkdir -p "$LOCAL_DIR"/pdf/img
   mapfile -t FILES < <(get_dates)
   echo "state,count,date" >estados.csv
   echo "count,date" >total.csv
